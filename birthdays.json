@@ -1,0 +1,3370 @@
+{
+  "VCALENDAR": [
+    {
+      "VERSION": "2.0",
+      "PRODID": "-//85145615b16782b06483ab9b5ea618cb//NONSGML kigkonsult.se iCalcreator 2.29.14//",
+      "CALSCALE": "GREGORIAN",
+      "UID": "74902430-50f7-477f-b990-762bebcb735e",
+      "X-WR-CALNAME": "Birthdays for CloudFactory",
+      "VEVENT": [
+        {
+          "UID": "af1b94fe-184f-49e2-8fa6-7198d611d2c4",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210101",
+          "SUMMARY": "Anuj Kachapati - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d39aca4e-64f4-4e67-9dbb-262ee842a6d9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210101",
+          "SUMMARY": "Faith Okinyi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b52e5c29-c0c2-496b-ab01-d2ba2ba4ae54",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210103",
+          "SUMMARY": "Trishala Mathema - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8ae4c80b-dc8b-4076-8472-c3634246d6d5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210103",
+          "SUMMARY": "Courtney Carucci - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5b354092-b2bb-485b-b1ce-b5224af8ba65",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210103",
+          "SUMMARY": "Vera Okomo - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a541dc7e-d3ed-4bee-9ec0-274c71a688a9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210104",
+          "SUMMARY": "Boniface Mbiu - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0551d910-b4fa-4369-89de-7e7ad52a613a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210105",
+          "SUMMARY": "Kaji Basukala - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2f80dc26-7c22-43cb-9861-e7e2d94de7d9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210105",
+          "SUMMARY": "Arasa Evelyn - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "58b2c48f-a66c-4889-93a4-c76eecf073f9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210105",
+          "SUMMARY": "Jerry Wigan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a92753eb-53da-4c8a-ba44-e934776460c2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210106",
+          "SUMMARY": "Rahie Chege - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "199e0959-b83a-4f6c-aaf3-c9117169232a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210107",
+          "SUMMARY": "Henry Baird - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a5b039d0-e848-441a-b83d-2eed8b839a92",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20210108",
+          "SUMMARY": "Vivek Adhikari - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "50ac8653-804e-4fdc-9c06-9ea3a1b5694c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200109",
+          "SUMMARY": "Muthami Ndiang'ui - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "af097ef6-8ae3-4cec-a5b8-cd3b93a59908",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200109",
+          "SUMMARY": "Rumina Shakya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1fb46861-27c2-4129-aa6c-e84d7ac009e5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200110",
+          "SUMMARY": "Tim Pham - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f2650a83-47a8-4574-b211-3766e2187a71",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200111",
+          "SUMMARY": "Marie Wedlin - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e12f481f-8e31-40aa-8f95-be52cbafc8b9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200111",
+          "SUMMARY": "Shristy Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3e8ec568-d282-4319-aad2-c6cb873cf290",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200112",
+          "SUMMARY": "Ramij Karna - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5326bad8-d64f-4fda-aaa3-3746354546a5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200113",
+          "SUMMARY": "Moe Alim - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "118b98b8-9a4a-4d25-afda-cec16ba9901e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200115",
+          "SUMMARY": "Sakar Lamichhane - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "885873ed-79ac-491a-a9be-118b17c6b718",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200118",
+          "SUMMARY": "Brian Wandere - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "31a99f79-e541-45b1-84fd-e9f4abc91cb7",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200118",
+          "SUMMARY": "Bikesh Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8fe9263b-1c4d-4129-a053-1bc343e40b2e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200120",
+          "SUMMARY": "Stephen Smith - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "261e1a5d-c967-414a-bc04-bde8d0344845",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200120",
+          "SUMMARY": "Kelvin Wainaina - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e38fd5f1-3be3-4ebe-8a3d-48138fe85095",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200121",
+          "SUMMARY": "Nicole Hussey - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1c7b4ad0-70ff-4086-9be3-af543fd0731d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200124",
+          "SUMMARY": "Bishow Prajapati - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "54dc08c1-af11-46a7-b538-abf3df3c8cda",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200127",
+          "SUMMARY": "Bishnu Pandey - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8b3853b6-ad2a-45f5-a4c1-e783f1e1c827",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200127",
+          "SUMMARY": "Jay Bratton - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f046b731-3c39-41cd-9cd3-a09851ffbd90",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200128",
+          "SUMMARY": "Shristi Kapali - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bdab31b5-0971-4642-b11e-b2a4e67cd6a1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200129",
+          "SUMMARY": "Kriss Basnet - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "52dea394-22de-40ad-afce-a1d202069a2c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200131",
+          "SUMMARY": "Abhijet Pokhrel - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0a0e9eb1-6957-4ac1-adc6-5ef91a2b0ed3",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200131",
+          "SUMMARY": "Rojen Manandhar - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "774418ce-da2b-43e2-8854-c6b4c87cad71",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200203",
+          "SUMMARY": "Danson Wainaina - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c9e0467c-7cb3-4d61-aff6-f21bf6e107ba",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200203",
+          "SUMMARY": "Aditya Karki - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "97210b32-d263-446f-b86c-64514d021905",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200204",
+          "SUMMARY": "Kritika Thapa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8f164f85-3a08-4a38-aaeb-ef772bad7e36",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200204",
+          "SUMMARY": "Moses Abwor - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e1835f48-e633-4f0c-86c9-9d31f3ed0357",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200206",
+          "SUMMARY": "Carol Wright - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2b6ea763-5110-4266-b2ce-4834a704c3da",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200207",
+          "SUMMARY": "Anita Sharma - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3202bc61-ef07-45ed-99ce-721be74ff2b2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200208",
+          "SUMMARY": "Bishnu Subedi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ab2791c6-ffc6-4e87-904a-2326e51bac5a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200208",
+          "SUMMARY": "Lilian Kariba - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "97e6344e-458a-4a49-b73a-781d63655bcb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200208",
+          "SUMMARY": "Juma Mariekhe - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7055c33e-3520-42d5-91e0-7979b6cbdf27",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200211",
+          "SUMMARY": "Merina Subba - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a30a4a99-37cf-4738-94bf-927efa7c9aa7",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200214",
+          "SUMMARY": "Harry Rotich - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "642df7a2-23d5-45da-a00d-b7ac0c03358f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200214",
+          "SUMMARY": "Kreeti Modi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c580a65a-f47e-47c2-a216-bc944defc03c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200215",
+          "SUMMARY": "Collins Thinwa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "62a41d03-7656-494c-9af7-573f4cbba5eb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200216",
+          "SUMMARY": "Rohit Joshi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "547a7373-5371-41b8-a113-0a13d01a84ae",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200216",
+          "SUMMARY": "Diya Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a7aae61a-48a9-487f-927a-7ceb646cacc2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200216",
+          "SUMMARY": "Kevin Ikadi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4606307a-6426-4b85-a15e-8af98da8b230",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200217",
+          "SUMMARY": "Ram Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b84c3711-b383-4fc8-bd8c-d6314aedff54",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200218",
+          "SUMMARY": "Keisha McKenzie - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a3df5937-c417-4106-9807-eb731613ad30",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200218",
+          "SUMMARY": "Alice Juma - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e72d493b-896f-444a-812b-752326f486e7",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200218",
+          "SUMMARY": "JB Beardsley - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "90d6329a-f503-4999-b993-da216090872f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200218",
+          "SUMMARY": "Beth Curtis-Clarke - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5e4d92d3-7c95-4c08-a399-75fefa77f3b1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200219",
+          "SUMMARY": "Hope Makwali - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "93e1bef8-b038-4fbc-881e-84eafed542bb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200219",
+          "SUMMARY": "Shishir Paudyal - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5f02c6d6-d162-4c8e-8bcd-edd69c3544bb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200220",
+          "SUMMARY": "Yum Phan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b4fea581-c6c6-4ff2-a890-6e3ee73d4952",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200221",
+          "SUMMARY": "Anthony Muhia - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9d901f84-027f-4be4-92c5-71a5f214ee35",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200223",
+          "SUMMARY": "Leah Kimotho - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a2289195-43e0-4d14-b96f-85be5bffac48",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200224",
+          "SUMMARY": "Elijah Elkins - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e742c24f-c879-4af7-99d0-b19b06358ba7",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200226",
+          "SUMMARY": "Kevin McElroy - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "33f54ef6-0958-486d-81ad-87161233900e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200227",
+          "SUMMARY": "Aseem Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "06a9d389-bc48-4635-953a-c3538dd0147e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200301",
+          "SUMMARY": "Jacob Kimani - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "220bfef6-f5e2-4e10-a672-b52bcc8cf5b0",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200301",
+          "SUMMARY": "Smarika Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4588f957-2b96-42e9-adab-055ea9cb790b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200302",
+          "SUMMARY": "Ratish Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4efb23bc-3da2-41e7-8904-5caea8929f1e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200303",
+          "SUMMARY": "Frank Sarnie - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "253b764d-7a8f-41a7-9b5a-f9a46600ffb0",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200305",
+          "SUMMARY": "Raman Amatya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "619faa39-3669-48fe-8e82-059021a8333b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200306",
+          "SUMMARY": "Lochan Thapa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "db089986-486d-400c-b993-dfbf52877e31",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200307",
+          "SUMMARY": "Patricia Kimani - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0de9b80c-62fd-4a68-b393-93ad5f366e95",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200313",
+          "SUMMARY": "Sabin Shahi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "35c28b97-4793-42b3-9dac-f183f69bb369",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200315",
+          "SUMMARY": "Sumesh Karki - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4a95e018-a23e-423b-97f4-2f0834ccfac2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200316",
+          "SUMMARY": "John Snowden - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bf495025-0a0a-4820-bc6e-a7fcc4634394",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200317",
+          "SUMMARY": "Adam Rich - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2dea9c5e-392a-4385-a549-276cc957ccee",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200321",
+          "SUMMARY": "Dorothy Okoth - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0696ce9e-b4be-47ab-bdef-8690b9d0bc38",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200321",
+          "SUMMARY": "Tom Battle - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6e8a98b6-c0df-40e4-b0b4-0d34c4b83063",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200323",
+          "SUMMARY": "Rama Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a893f637-19ea-47a0-b1be-ad15c87a061d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200324",
+          "SUMMARY": "Cary Smith - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b5e900af-b28f-4d87-bfa0-3f3015aeedf2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200325",
+          "SUMMARY": "Roshan Lama - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b8969eb8-5424-49b5-9013-e10029f2a97a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200326",
+          "SUMMARY": "Abhinav Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c2881f23-5cee-458b-88a9-8ed15085a69b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200327",
+          "SUMMARY": "Mike Germano - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a580d616-21f7-4588-99f9-b80e64504e74",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200328",
+          "SUMMARY": "Chris Omondi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "499057ab-0827-4f57-bc26-0a1886eaf2b6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200328",
+          "SUMMARY": "Miller Chemonges - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f450acf4-72b6-4eca-a079-0cc9c91c7a5a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200329",
+          "SUMMARY": "Chris Locke-Wheaton - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "73193344-5ef6-478d-8045-60a90c3d525c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200329",
+          "SUMMARY": "Abhishek Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9d6f30ea-6079-481c-bac0-4d303778c971",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200331",
+          "SUMMARY": "Muya Muya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "aedbeaae-02d5-471b-8ace-705ac1cc4af9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200402",
+          "SUMMARY": "Andy Minshall - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0fa60a36-3f5e-4643-b5f4-10a7e50039cc",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200403",
+          "SUMMARY": "Aure Vatinel - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1967aa84-4617-498e-8d00-088368b187f3",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200404",
+          "SUMMARY": "Billy Labatt - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5e465b7e-a042-404f-ac09-425d5480e209",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200405",
+          "SUMMARY": "Courtney Wilson - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "80b35726-efd3-4570-9136-5eaf68c2dfbc",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200410",
+          "SUMMARY": "Bijay Budhathoki - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0796409c-2cf6-44f9-9917-e8e2864cd7d6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200411",
+          "SUMMARY": "Sarina Sthapit - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ce23492b-e2c6-47b7-9d73-0dda025bd34c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200411",
+          "SUMMARY": "Emily Hall - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "64e374e8-480c-4a13-94bf-38f4ba733ebb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200414",
+          "SUMMARY": "Manoj Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7f3a3984-59d8-40b4-aad7-1ae28c5eeb07",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200414",
+          "SUMMARY": "Aashish Manandhar - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3037fe09-5ef1-4874-942b-1d9df2b2a10c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200414",
+          "SUMMARY": "Sushil Sapkota - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d7ea6777-ec53-4b60-9d6e-79c240612063",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200414",
+          "SUMMARY": "Kelvin Makachia - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3df2a85f-15bf-4d4d-9ee3-8367eea3433b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200415",
+          "SUMMARY": "Trey Velleggia III - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "53a13460-adb4-4664-8f74-dac6047bc628",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200415",
+          "SUMMARY": "Nate Howell - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5e868d35-3cb4-4ba0-bbd7-eb6fb2bad5a5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200416",
+          "SUMMARY": "Dinesh Ranabhat - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "66809f57-fefe-462a-8c5c-805424c1b5c7",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200416",
+          "SUMMARY": "Janet Kamanga - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "42a6b6bf-1334-41a8-9666-1e82018c561a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200418",
+          "SUMMARY": "Gunjan Upadhyay - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e19d4543-c1d8-4260-bb64-40d2f531725d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200419",
+          "SUMMARY": "Ed Kimani - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2829deb3-9f3a-40d2-b757-beb9362f7fb7",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200422",
+          "SUMMARY": "Phillip Njake - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d01daf61-45b4-4a3d-98b2-00041eab1919",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200422",
+          "SUMMARY": "Jonathan Kluger - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "67188378-1ba5-42c2-8dda-c5b1a25743e8",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200424",
+          "SUMMARY": "Colin Kennedy - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d8ecbe0d-488c-43c9-a6d5-95c7f04e2291",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200425",
+          "SUMMARY": "Damien Norris - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fb42a7ff-9162-49ed-a685-5a17860ede6d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200425",
+          "SUMMARY": "Victoria Chege - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "add72829-ad68-4480-a47a-7bc29d719865",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200425",
+          "SUMMARY": "Stephen Lloyd - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e1f3a2fa-9e48-4b46-b490-0f4b6315fb02",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200428",
+          "SUMMARY": "Lucy Ndung'u - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "386921dc-7e53-45e0-9e3e-4f088e6f1c0b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200428",
+          "SUMMARY": "Chris Williams - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "97575345-2a25-4365-94af-5c8b7e9adcd1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200429",
+          "SUMMARY": "Michael Opinde - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "791c6eca-5b27-4318-9b89-3b89b98a50a5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200430",
+          "SUMMARY": "Jen Stone - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1f8ac9f9-3d6a-4877-9769-cfbbe95bc009",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200501",
+          "SUMMARY": "Wanjiku Wambugu - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f5b7faf0-d090-45a0-beb4-8691d2f1ecda",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200503",
+          "SUMMARY": "Bidhya Rimal - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2948009d-49e6-4e1a-bedd-6ec9755bba8f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200504",
+          "SUMMARY": "Nabin Khadka - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8407dc4e-278c-4184-b927-913046197d89",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200505",
+          "SUMMARY": "Balman Rawat - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b879c0fc-57f4-4941-b007-9b809c109f3d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200505",
+          "SUMMARY": "Anne Mbugua - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "91ae3b03-f8ba-4e6e-beb8-b9d8a3fa4a87",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200506",
+          "SUMMARY": "Wanjiru Muraya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3caf5a96-fca6-437d-ab1c-9e92be68bbdb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200506",
+          "SUMMARY": "Shristi Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6310d858-c173-433f-85a9-6403cd2dc601",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200508",
+          "SUMMARY": "Mercy Aruwa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "74107987-de42-4932-b464-b0308c949493",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200511",
+          "SUMMARY": "Cate Kabiru - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7c0c852b-5a79-47a6-9793-9c05227b5234",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200512",
+          "SUMMARY": "Stewart Stokes - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "571bb867-4c72-4570-be1d-bf2ea7a7d1ee",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200513",
+          "SUMMARY": "Nirdosh Gautam - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "25fdef7a-a4c2-4421-83ee-7b033c860487",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200513",
+          "SUMMARY": "Gaurav KC - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a09dc7d0-d731-4756-8c42-5c79e0a0a951",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200513",
+          "SUMMARY": "Pauline Kakungu - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d6756ed2-0d60-4ca0-b415-34ff4ef61116",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200517",
+          "SUMMARY": "Bill Heffelfinger - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fb6a8de6-c32d-4e0c-a313-8c7979db1011",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200518",
+          "SUMMARY": "Shreya Jajodia - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9052181a-0be1-4f36-8249-49e7aa23dfc3",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200518",
+          "SUMMARY": "Rikesh Karki - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9ea90295-855c-4817-bf31-1b66d92d07ab",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200518",
+          "SUMMARY": "Rhoda Muthoni - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "648dd941-a347-4828-a9c9-eaa3b01098ad",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200519",
+          "SUMMARY": "Maureen Murrey - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8221a92c-89fc-4b3e-9755-4af7a8225b68",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200520",
+          "SUMMARY": "Tony Oketch - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3bee3eb6-75fc-484f-ae91-c01d811fb7ec",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200522",
+          "SUMMARY": "Jason Dean - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ff909a6e-9ce4-4fa7-872a-2c2de00f8448",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200522",
+          "SUMMARY": "Anne Maina - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bc3a4a44-a119-4599-b99d-72908c0ad979",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200523",
+          "SUMMARY": "Bishakha Pande - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f74baac7-5f6d-47b1-98fc-43adaf4a85cd",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200523",
+          "SUMMARY": "Kabin Pandey - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b8e31070-bb9d-4da8-9920-4082430a5450",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200525",
+          "SUMMARY": "Kailash Badu - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c261c942-0a23-4698-baa0-cb1d4ab30769",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200525",
+          "SUMMARY": "Anjeela Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7d1c0bc0-404d-4ce1-a683-0d007298aa2f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200525",
+          "SUMMARY": "Mike Mieszanek - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "50e5312a-9fa2-410d-a10a-91a589ab6b20",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200528",
+          "SUMMARY": "Mike Riegel - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bc5c853b-91d2-4b47-83f4-a1939b012c65",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200530",
+          "SUMMARY": "Vincent Otieno - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "49e83405-4fff-487e-a1e7-288fe208bfff",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200531",
+          "SUMMARY": "Stephen Mutz - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "50d8b1c1-1713-44fb-a900-bb0273a772e6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200602",
+          "SUMMARY": "Shankar Acharya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "12f5bfad-5ed1-4b7a-ba08-b5f06e6ddd47",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200602",
+          "SUMMARY": "Molline Mwangi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6f47e9ae-f29c-4b95-a3c1-cd92312e4d37",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200602",
+          "SUMMARY": "Emmily Lwamba - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6b23d6bd-47c9-4962-8249-042fbf060bb2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200603",
+          "SUMMARY": "Yasmeen Kashef - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "96c11790-72e5-4e96-ac73-d833ad581983",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200605",
+          "SUMMARY": "Binita Shai - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1d8866ec-2d73-4383-a8d1-5e8efcb314d2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200605",
+          "SUMMARY": "Patrick Thiriku - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "922a048b-85ca-46d9-9d01-1995f4a29594",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200606",
+          "SUMMARY": "Aldrin Membo - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "47921128-127d-4d4c-b3ae-8f1c23ebb7cd",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200606",
+          "SUMMARY": "Ben Halstead - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f4b23623-a9eb-43f7-a26b-52d9e8c754bd",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200609",
+          "SUMMARY": "Sabin Bista - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "825a8b44-9498-447b-989a-f76203beb39d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200610",
+          "SUMMARY": "Resian Sankei - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d5ca8735-4721-494a-a0b9-0b941a6b6b1d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200610",
+          "SUMMARY": "Peter Irwin - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "762108e3-d1c1-4efa-8df6-c309209cf37a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200612",
+          "SUMMARY": "Mamata Pradhananga - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cbae54cf-b79e-48ca-ae5c-dc5a66e4aa5d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200613",
+          "SUMMARY": "Joseph Muiruri - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "72bbe00f-ad1f-439e-b980-cfe4cc9f0e54",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200613",
+          "SUMMARY": "Cosmas Matundura - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e993371c-9207-49ea-8e01-d515bdd07e3c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200616",
+          "SUMMARY": "Bilgram Kwendo - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "172c7bd6-7195-483b-9195-2fbb6e1fa37c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200616",
+          "SUMMARY": "Cassie Thompson - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9d11e0ea-98c3-4849-aad3-f3773db2489f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200617",
+          "SUMMARY": "Catherine Njoroge - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fe0a489e-62c0-4598-aa93-ccbd25e321a2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200617",
+          "SUMMARY": "Bonney Mwanda - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "eceb0baa-9157-47a7-bde1-fdeb7538e965",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200617",
+          "SUMMARY": "Victor Migabo - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "241ffe1a-e933-4e88-a23e-543dcd506c21",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200622",
+          "SUMMARY": "Renu Magar - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ff1db471-af76-4d45-8545-4a1b6bc7c530",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200623",
+          "SUMMARY": "Astha Joshi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "54f44d0b-2aaa-4fc5-9d2e-b7f50eb35b39",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200625",
+          "SUMMARY": "Sam Sundin - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bac483e1-1d63-41e3-a194-cc9786e228ce",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200626",
+          "SUMMARY": "Yeshoda Shakya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ee5c655d-93d9-45d5-907e-9ab8da20c4a4",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200626",
+          "SUMMARY": "Phill Thompson - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ec3d3283-e630-4dcd-bfc0-331c5b0b4272",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200627",
+          "SUMMARY": "Bipin Thapa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "116234ef-efbc-40d6-b39d-babb39fb52e1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200627",
+          "SUMMARY": "Margaret Wanderi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "670ff281-f8a2-4e0e-9677-5d3a5d495ea6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200628",
+          "SUMMARY": "Susan Joshi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0e01f124-b9d7-45d4-a4d0-d36f6a86dd17",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200629",
+          "SUMMARY": "Tina Deula - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "eadbba1b-35b9-4360-9539-e007967ba6d6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200629",
+          "SUMMARY": "Kritish Pahi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6cb4bd14-fc9b-4ef6-8455-6fa4ebdde093",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200701",
+          "SUMMARY": "Josphat Masya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c8fa6843-8ec1-400f-97ab-33b122cf0614",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200701",
+          "SUMMARY": "Ojaswi Sharma - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0a8a343e-ed26-49de-b0f8-fb66e734f1b9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200702",
+          "SUMMARY": "Rikesh Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "751e760e-18ff-4ea0-a852-5f919a53aa2f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200704",
+          "SUMMARY": "Sanjay Joshi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "da7db304-f1e2-4878-baaf-94664efee7a6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200705",
+          "SUMMARY": "Biju G.C - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1ceb3e7c-eeb1-446f-8039-6a8a26d2ab56",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200705",
+          "SUMMARY": "John Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "183117a4-ecbf-46a6-b52e-d15241d52d0b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200706",
+          "SUMMARY": "Madhusudan Khadka - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d398651c-d40a-4566-8700-7c114de2a045",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200706",
+          "SUMMARY": "Laxman Basnet - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bd18e3f3-2b85-4446-954e-9373338121f2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200707",
+          "SUMMARY": "Swojeet Kayastha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a0228a31-c5d2-4306-9d1a-a0f0832ec787",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200708",
+          "SUMMARY": "John Wagler - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "36437a98-93f2-4810-9b8a-8069d176b8a9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200708",
+          "SUMMARY": "Safal Joshi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "323a6448-903a-43be-80a3-8362b423a184",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200709",
+          "SUMMARY": "Biswa Giri - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0e334c57-f87e-4c1b-9fe0-589692c30f83",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200710",
+          "SUMMARY": "Craig Somers - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e87ad794-183e-43d6-b476-34ecce35454c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200710",
+          "SUMMARY": "Sammar Simmons - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a5859bf7-4886-4bbb-bb7c-c301c70f3eda",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200711",
+          "SUMMARY": "Heather Niemiller - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fc63b179-148f-479a-beeb-f07c16fadabd",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200711",
+          "SUMMARY": "Alisha Shakya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b539c770-55fe-4be0-b0b6-d8257feb9443",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200713",
+          "SUMMARY": "Pratikshya Sharma - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "820f2639-cf4c-4785-a47b-cbdbc277dab1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200713",
+          "SUMMARY": "Supriya Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "68ea859d-506f-4218-b54d-07ea6ef8b8b6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200715",
+          "SUMMARY": "Madhuri Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7b719d9a-7585-4589-9b77-be1653b38660",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200716",
+          "SUMMARY": "Toby Bassford - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "af6bb845-f5d0-4b1d-a1f9-81806a984d86",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200718",
+          "SUMMARY": "Sushan Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "07b6a4c3-a754-43de-8e86-d8bb560ec1e5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200718",
+          "SUMMARY": "Glen Munro - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "751e5509-01f4-4b0b-befb-5e1a86e3ad85",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200721",
+          "SUMMARY": "Osinde Nyamweya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cd758541-e704-4fa4-ac49-b7f195e5f94a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200722",
+          "SUMMARY": "Sunil Adhikari - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9ecdad0b-9403-495e-a894-9070bf39506d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200723",
+          "SUMMARY": "Festus Kiragu - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f730bb04-318c-4c78-9b6b-41d5fe77bd54",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200723",
+          "SUMMARY": "Michael Tanui - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "88469e7c-ba15-49b7-8791-72e8f2768a26",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200724",
+          "SUMMARY": "Gee Mwangi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b31eeac6-913d-4318-8648-d4058f0f9b4e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200725",
+          "SUMMARY": "Sundar Vaidya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "359cfaf5-d51f-4227-b952-9e94beec4d1c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200725",
+          "SUMMARY": "Kristi Martin - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "049f0251-6a6a-4979-9029-5a4482d4ebdb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200725",
+          "SUMMARY": "Pushpa Kafle - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ae8ab281-c354-403b-bb13-543afa15b499",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200727",
+          "SUMMARY": "John Schauf - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "da7eabf2-5bca-4919-9f36-ff3ff52bf5de",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200727",
+          "SUMMARY": "Aakar Ghimire - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bf4fbf5e-6fcb-4e2f-95d3-19365ca33d7e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200729",
+          "SUMMARY": "Candace Herrell - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2eb10708-935a-46bf-8660-56515d767553",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200730",
+          "SUMMARY": "Doug Bailey - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d7247c5b-92b0-4ea3-ac46-9f5fba5cef1e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200731",
+          "SUMMARY": "Cam Graham - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "735c8cc2-3345-40de-93dc-6a2662859f67",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200731",
+          "SUMMARY": "Sarwagya Pandey - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "89ab0a0a-f21d-463c-9381-602e5a4d8057",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200731",
+          "SUMMARY": "Nadya Issa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "339ce0c0-d158-4470-9915-6640fd12e367",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200801",
+          "SUMMARY": "Bardan Rana - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "dd25de04-f3b9-4c3a-afc2-d0829572fd84",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200801",
+          "SUMMARY": "Basanti Neupane - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d0fab81d-6121-4f55-b921-1601e7b97776",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200801",
+          "SUMMARY": "Valentina Raia - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0fc77572-f806-4e65-99ea-1bb2c88733f3",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200802",
+          "SUMMARY": "Tej Dattani - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f296be57-1f8b-4f64-8202-dfdbfd321edc",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200803",
+          "SUMMARY": "Joel Montgomery - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "838ce995-aeba-4465-bf27-4a4a6bfa6089",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200805",
+          "SUMMARY": "Emma Adam - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "733c6b08-202b-4931-9379-12b2c5f1782c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200805",
+          "SUMMARY": "Derek Edwards - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5511f190-5c1d-4576-bf00-1b67d841c990",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200806",
+          "SUMMARY": "Chuck Muckoya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3ff64b2a-7a9c-40bd-915f-42d4031adff3",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200806",
+          "SUMMARY": "Smita Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "12f9da9e-f952-4f2e-8322-60b4df33bd7c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200809",
+          "SUMMARY": "Bikram Dhakal - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9589ae8e-3457-4f85-af64-c8354215bfa5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200810",
+          "SUMMARY": "Krishna Chalise - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d774d2cd-9409-49da-ae6a-f4cac5495104",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200811",
+          "SUMMARY": "Camden Carver - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "687b276c-7a7c-457e-8924-8525b1876dc3",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200812",
+          "SUMMARY": "Eli Irungu - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "17313026-0893-4d92-acfa-cdd11c2e87c9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200813",
+          "SUMMARY": "Keshav Gartaula - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3ea92c59-af06-4dab-9819-375be3d71d2d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200814",
+          "SUMMARY": "Anjal Amatya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6072388b-f306-4fb3-aac9-15d839a7285b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200814",
+          "SUMMARY": "Karen Kazi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "55eb10b3-1d80-45d5-ad6c-9d306bd09bff",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200817",
+          "SUMMARY": "Kennedy Njoroge - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f89e4c94-849e-4941-b68e-321d0ee16cd5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200817",
+          "SUMMARY": "Sujan Chapagain - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f6ad0326-1848-4da0-a971-3e5e7f2ac1af",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200817",
+          "SUMMARY": "Dave Jennings - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "66b04af0-355f-4ec1-ae3f-b13e5c71ecac",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200818",
+          "SUMMARY": "Samit Ghimire - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "55071724-0b85-451e-b5ec-7bb2de3b4c6b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200819",
+          "SUMMARY": "Anuj Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "40e97a3b-08ab-40d5-98b0-688f49a45cd1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200820",
+          "SUMMARY": "Elvis Lukalo - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "da02bcf8-87a7-4450-99cd-f079b93a95cb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200822",
+          "SUMMARY": "Matt Riemen - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9df4b7b8-59fd-4e70-a743-fb69178fdcdc",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200822",
+          "SUMMARY": "Timothy McLeod - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e4701131-537c-4526-8973-e0a52c1a15a2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200825",
+          "SUMMARY": "Nanette George - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d439268b-65b1-4a24-9f18-64e840e967c6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200826",
+          "SUMMARY": "Sagun Khanal - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c2dffe81-e29a-4f45-82d1-e6607f58108b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200826",
+          "SUMMARY": "Jordan Ervin - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e94b3aa9-f4ed-42e1-8042-392d0de942f5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200826",
+          "SUMMARY": "Apurva Koirala - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d70a4997-9017-47db-bdaa-b9213aefb52d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200826",
+          "SUMMARY": "Ayush Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "960c3d6d-ba37-4b51-92d2-17157a6cc25d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200827",
+          "SUMMARY": "Rajiv Sah - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a33bcaab-830b-49f0-ba48-cc4e6e6f11eb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200827",
+          "SUMMARY": "Aastha KC - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b6001bd6-2ebc-46c2-83fa-8e884c9f0ac0",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200827",
+          "SUMMARY": "Subas Regmi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "834f5cf4-ff73-4110-92b2-2a170b7ebb6d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200828",
+          "SUMMARY": "Anthony Scalabrino - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e61d990d-d359-4eb0-a0e8-5fb3f5f4830f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200828",
+          "SUMMARY": "Prabhat Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b5646ead-77b2-4301-bb5c-4fbb1dcfa56e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200831",
+          "SUMMARY": "Sugam Timalsina - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9e13bf2b-0f48-41e9-b8f0-9be372086462",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200901",
+          "SUMMARY": "Chris Ombati - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ac882577-fb2d-482c-9b80-864d305b8083",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200902",
+          "SUMMARY": "Solomon Wagura - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "681082a0-95b6-4d81-a348-bab8e70bd9c6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200902",
+          "SUMMARY": "Sajun Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "16cde64e-6a13-4c1d-8f07-981432b5e23e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200902",
+          "SUMMARY": "Karoli Oile - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2cb1b54b-5391-4275-8d49-5c8ccb5a9465",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200906",
+          "SUMMARY": "Jacqueline Kariuki - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b0948227-1f09-4cd3-a241-167b15b180b1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200906",
+          "SUMMARY": "Manju Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9551b5cb-1249-4f01-996d-e58afbf83c50",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200906",
+          "SUMMARY": "Azad Silwal - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b5a0c3b5-ba20-4adb-8fbb-21bce8d0aabd",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200906",
+          "SUMMARY": "Castine Kitah - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c469e9d5-07b5-43a1-bb74-26f200c2b6ea",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200906",
+          "SUMMARY": "Sakshyam Joshi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "de9dad28-875e-4e15-9dc2-e595cc27494b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200908",
+          "SUMMARY": "Linus Dhakal - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "32752f99-febb-4f2a-aafc-250200b8a7a6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200908",
+          "SUMMARY": "Balakrishna Paudel - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0204b6d5-dee7-4132-bde4-85986fab7181",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200908",
+          "SUMMARY": "Zawadi Arasa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a6d3b9b8-5d84-4fd5-897d-821bc425330c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200908",
+          "SUMMARY": "Anish Khatri KC - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b3cf981b-33a8-4928-9d10-7cbedae50401",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200908",
+          "SUMMARY": "Kevin Juma - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fe879a00-5604-4b41-8d85-5fffc20ef300",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200909",
+          "SUMMARY": "Samuel Olocho - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "73a7bbec-78fb-4707-8d24-b97151157d32",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200909",
+          "SUMMARY": "Brian Ngure - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e853b494-26de-4951-920a-75637022774a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200909",
+          "SUMMARY": "Gatimu Gatimu - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "38d0fca6-5fd7-4bef-8b84-d62f8d72e945",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200911",
+          "SUMMARY": "Mugechi Ngandu - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2a1667f7-a3da-4bc7-8362-62746a6f0b91",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200912",
+          "SUMMARY": "Roberta Ajulo - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7d357636-f1db-4ca8-a612-e110486fdcbd",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200914",
+          "SUMMARY": "Dhanit Paija - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1e7ac5df-4c79-4287-bdff-4c9ebb0735ee",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200915",
+          "SUMMARY": "John Ndegwa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3c288e73-3b57-44ae-815e-95189fed74e5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200916",
+          "SUMMARY": "Anjeela Sthapit - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "635fb148-ea7d-492f-aae8-10e960e623ce",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200917",
+          "SUMMARY": "Roshan Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "63289b46-dddb-4708-985a-9583c68042ff",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200920",
+          "SUMMARY": "Samir Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3491f9fa-bdd5-4cc4-9248-e77dd8d53b5b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200921",
+          "SUMMARY": "Shriya Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d02367c9-eb3e-4300-823f-9b58236d1f2a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200921",
+          "SUMMARY": "Monica Ghimire - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "991e9d54-2788-4baf-98b3-308343aca0bb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200922",
+          "SUMMARY": "Eric Muriuki - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b61b146f-4fd7-4c9a-9d94-7c15e4391c3c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200923",
+          "SUMMARY": "Matt Magar - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "65242a65-d45b-4158-b2ae-f12597e31a9f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200923",
+          "SUMMARY": "David Groves - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6143ba5b-7f21-4c27-b712-4a818ff2dbc3",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200924",
+          "SUMMARY": "Vincent Oluoch - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4abac770-81e7-4383-9844-260eb8b650ec",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200924",
+          "SUMMARY": "Monika Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "df2d6ae1-1c7b-41b4-aa9e-282821252672",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200925",
+          "SUMMARY": "Jay Ngugi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b69b030a-c6d9-424e-b033-65c6c25969fc",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200926",
+          "SUMMARY": "Sumit Rai - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5df34274-fd95-4765-98cb-3bb2a82a3bd2",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200926",
+          "SUMMARY": "Paul Christianson - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9c76f57d-5ecd-4865-b10b-4ee786a76789",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200928",
+          "SUMMARY": "Sameer Gautam - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9f13eb6c-1a42-4a0f-a0c3-8795b9077c63",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200928",
+          "SUMMARY": "Suraz Shahi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ba3d9140-916a-403c-8af1-95a08eaa65a1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200928",
+          "SUMMARY": "Sujesh Amatya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6eaefb8b-4d40-4b92-9296-144345e3631f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20200930",
+          "SUMMARY": "Michelle Henney - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e24fa2d2-e989-4f6f-bb46-2c95ddc7eb93",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201002",
+          "SUMMARY": "Rebicca Budha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "14ec2cd8-bd2f-4aba-be96-ef35aa0e6d9f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201003",
+          "SUMMARY": "Dhruva Magar - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3b03e296-51d4-4a0f-bc43-07751039740e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201003",
+          "SUMMARY": "Suraj Shahi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6d2622aa-2486-4c3c-9e57-4b40413a7915",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201003",
+          "SUMMARY": "Bhim Chhetri - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "42f101af-cb35-421b-86f5-0c92fa94ca59",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201004",
+          "SUMMARY": "Damian Rochman - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e840f11e-c680-4fe0-b692-3824d388496b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201005",
+          "SUMMARY": "Sam Karim - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "710bf172-3e3c-4688-883e-759b3de42882",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201007",
+          "SUMMARY": "Hugh Roberts IV - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "577ae003-3d95-46bc-b3c0-0c68f6d3a166",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201007",
+          "SUMMARY": "Sylvie Waitumbi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d1348346-ab71-4721-812b-cf97c67fa94c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201008",
+          "SUMMARY": "Milap Neupane - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7ccc5d35-1b57-4200-9011-0c4acce20eff",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201010",
+          "SUMMARY": "Subesh Bhandari - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e305bfb0-5727-4b8a-8908-ff32d760ce42",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201011",
+          "SUMMARY": "John Sunam - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c49cc6ac-99e8-4b2b-a8d8-8631a1067472",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201011",
+          "SUMMARY": "Gita Karki - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d3c13370-7209-48ea-9df6-fc237c8949c3",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201013",
+          "SUMMARY": "Anand Madhvani - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "aa2c788e-2366-407e-ae46-aaccf16e9969",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201013",
+          "SUMMARY": "Prakash Regmi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f5b71759-6bc4-4d38-aa45-9f413d30f227",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201013",
+          "SUMMARY": "Sapana Karki - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "120db766-013b-4bfd-a6b4-9fd2a38762f1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201018",
+          "SUMMARY": "Bikash Sashankar - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d3dcf4e8-603f-4318-82e1-54dcf8e823fa",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201018",
+          "SUMMARY": "Prabesh Devkota - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "45d61a1f-89e2-4593-9365-776f2b2ac009",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201018",
+          "SUMMARY": "Elissa Hill - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ce2f143e-e067-454e-88db-844abea10805",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201020",
+          "SUMMARY": "Abish Basnet - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e74bdb85-8c12-4550-b38a-a2861a103551",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201020",
+          "SUMMARY": "Owen Muchiri - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "aaad71ba-4f30-424b-9638-ffa6c078a161",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201022",
+          "SUMMARY": "Durga Bidari - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "79ee7cd9-d629-413f-8065-24f21e3fe314",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201022",
+          "SUMMARY": "Lauren Cowan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d927cd24-9ee6-48fe-87ab-41ced7bcca66",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201022",
+          "SUMMARY": "Rodrick Kifuvi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b8f34387-1994-453b-881a-d368e1058fc9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201024",
+          "SUMMARY": "Mercy Mandela - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8a1014f0-a17c-4a13-afec-59d8fa21ecfe",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201025",
+          "SUMMARY": "Cait Bauer - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "83696ec4-686f-433c-b1fd-c5a5b6a31b36",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201025",
+          "SUMMARY": "Hellen Maria Wandera - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cc5799ff-1ca5-4418-b045-e799ba405646",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201027",
+          "SUMMARY": "Sheilah Wanjiru - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2818fcaf-3427-42f3-9971-1af9b51bded5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201027",
+          "SUMMARY": "Uma Makrati - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "32888549-b9a9-4881-9f2a-9734eaf9c6eb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201028",
+          "SUMMARY": "Prashant Pokharel - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1d63e888-2a94-4c0c-b5ba-7b4c050cadde",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201030",
+          "SUMMARY": "Naomi Langat - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ba68c723-478c-49f0-9562-c889331d683c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201030",
+          "SUMMARY": "Mark Sears - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a6c406a8-65aa-4748-ba9a-5ab3fa3c1a1a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201101",
+          "SUMMARY": "Rojesh Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0a5312ab-f671-48ea-a2fd-c22cfd2a8884",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201101",
+          "SUMMARY": "Bandana Lama - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7182cc9d-5b4a-4a1f-aca5-7fe5269d8836",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201103",
+          "SUMMARY": "Puja Jha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "83e672ba-610e-443d-8b8e-fb1c0e906dec",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201105",
+          "SUMMARY": "Puru Tuladhar - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "28bb67d1-f6d5-4a41-a753-73058fcc4199",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201107",
+          "SUMMARY": "Mani Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "eadd93ae-d003-4182-8ed5-2f6e0a6b2747",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201108",
+          "SUMMARY": "Gaurav Rana - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "03f1ca8c-9b64-418f-83f6-ad2c2c46dff5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201109",
+          "SUMMARY": "Amanda Tenedini - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ee2b2bef-ed81-476f-84ab-dd32ce87a97d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201110",
+          "SUMMARY": "Nicholas Kiamba - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4834a357-dcbc-44a5-a2d3-34ccddf7faf6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201111",
+          "SUMMARY": "Sophie Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8b00b56f-3884-4b0a-9217-2f99a461e994",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201111",
+          "SUMMARY": "Erika Gajurel - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "78ec44ab-5123-4002-ac80-6214b4b53dd3",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201112",
+          "SUMMARY": "Reshma Timalsina - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ffd9a37b-6b6d-4022-a3f8-fea7273354fb",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201112",
+          "SUMMARY": "Arpit Chapagain - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1e9cab87-c0f8-45c6-9886-de2f397c6201",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201113",
+          "SUMMARY": "Faith Kimanzi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0e053623-f417-4364-83b5-6c1bdb58f400",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201113",
+          "SUMMARY": "Eve Kinyua - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b92d2dae-f360-4484-8163-963cf754cec4",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201114",
+          "SUMMARY": "Mulama Mulama - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e3153ab3-842c-4668-a089-147b0054545b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201114",
+          "SUMMARY": "Sagar Kafle - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7d40da47-342d-456e-b6d4-edc9822b78b9",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201114",
+          "SUMMARY": "Asesh Shrestha - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "07888a31-d692-4f1e-bf97-c40e4385bce1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201115",
+          "SUMMARY": "Caroline Thomasset - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9ba108a3-572f-4db5-89e3-a5d38c567a0a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201115",
+          "SUMMARY": "Surbir Deshar - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1b393a97-be3a-4ccc-b5c7-1adc8135d904",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201118",
+          "SUMMARY": "Steve Wainaina - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7f5f2d61-6d6d-4093-a1f5-c23a109f776a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201118",
+          "SUMMARY": "Sabita Neupane - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "14100f53-adbd-4b6f-8ab1-22ce75f15730",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201120",
+          "SUMMARY": "Yogina Shakya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0fc93013-9e8d-423e-8762-af6d769b6887",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201122",
+          "SUMMARY": "Dome Dome - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "24e05481-24b6-489b-b173-45f9b5b0264f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201124",
+          "SUMMARY": "Sanjay Karki - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4b5fe171-971f-4aca-8cfa-13d41acd7596",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201125",
+          "SUMMARY": "Stella Kuria - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "48d3d3ee-0bbb-474f-b86a-5ed8abf56e1f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201125",
+          "SUMMARY": "Asmita Dhital - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a2c60c76-fd3c-405b-9992-808a46c2a75c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201129",
+          "SUMMARY": "Andy Haile - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3bfd08d6-3933-458d-8bf5-cda040684d59",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201129",
+          "SUMMARY": "Sujit Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0e12182a-c3cd-4a00-b1d7-9704c4929fd6",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201129",
+          "SUMMARY": "Alina Karmacharya - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7e7f056b-27fa-49c7-85d8-c1d27bcaeddd",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201130",
+          "SUMMARY": "Elina Dangol - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "88f1c2f3-fb47-4b59-935d-b032b8fd8d91",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201201",
+          "SUMMARY": "Robina Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d3bc4a21-e77b-4a97-b03d-073b905c46fa",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201201",
+          "SUMMARY": "Ravi Thapa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ed02fa2d-1b71-4e7b-afbc-b28dd42a4b66",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201202",
+          "SUMMARY": "Maddie Doar - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "98004cdd-cb22-40ec-a674-de704a9ab3b1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201204",
+          "SUMMARY": "Barun Thapa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a129a3e6-687e-46ee-b4e2-a116e939d08c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201204",
+          "SUMMARY": "Milan Adhikari - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f7341e9e-0d8a-4c94-a55c-9586b75aa30e",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201207",
+          "SUMMARY": "Wangari Kinuthia - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "280a11a3-d194-42cb-b639-6a7d113f61b7",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201207",
+          "SUMMARY": "Ashutosh Neupane - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "62024348-41d1-4b3d-8b8f-899164955ed7",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201207",
+          "SUMMARY": "Euroby Khyaguli - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d4799566-d71e-4bea-8b4b-e3417ebb8850",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201207",
+          "SUMMARY": "Edu Mwangi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "73e71089-5827-4441-b1f2-dbfff34359c0",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201208",
+          "SUMMARY": "Linda Memo Cheruiyot - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a066b554-a9cf-4adf-8d93-65fdf16af355",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201210",
+          "SUMMARY": "Kenny Masambaka - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4bae597d-09c2-4396-87f5-0ba79898352b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201211",
+          "SUMMARY": "Kushal Rajbhandari - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cd37f921-1643-474b-bad4-f425a75a1374",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201211",
+          "SUMMARY": "Jesse Hogg - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6b486086-8625-42d3-9248-06512028ab9a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201213",
+          "SUMMARY": "Nyambura Lukale - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "aa74199a-fd52-4a06-8c16-11edf2292556",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201214",
+          "SUMMARY": "Nick Pagett - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d6d4fb88-73ab-46b3-9719-ac43fa9733b3",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201214",
+          "SUMMARY": "Sailesh Dhital - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2cf6c420-de6c-4603-85a4-abcb9d44a43a",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201216",
+          "SUMMARY": "Bijesh Dhakal - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "74bf42c3-2328-4d91-8f86-b38b17f0c465",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201216",
+          "SUMMARY": "Prajun Maharjan - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "12110596-be26-449f-a13f-78241e444d66",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201218",
+          "SUMMARY": "Beja Ngowa - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b318ee13-74ea-4423-a642-c20a4d9cbea8",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201218",
+          "SUMMARY": "Chris Bhujel - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "dd8a4b1c-9818-4784-9740-e466c889c48b",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201219",
+          "SUMMARY": "Boni Sharma Khatiwada - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ba6f3fad-d31d-4ef9-9462-ae01bae44b74",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201220",
+          "SUMMARY": "Sumitra Karki - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "da03c4c0-3c92-425b-98b8-4175e07a862d",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201220",
+          "SUMMARY": "Linda Kombo - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e93a393a-a1ca-4f21-aa65-792ccd42e3be",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201220",
+          "SUMMARY": "Steve Okebe - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5660ac32-54b3-43f9-abb7-5c63a2a22516",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201222",
+          "SUMMARY": "Taylor Cash Hengsterman-Cash - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a17ab6f7-778c-4ff0-b239-22da49a4620c",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201225",
+          "SUMMARY": "Ashis Rai - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5e6b19fe-da17-49c2-9d97-edb7c0f6dddf",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201225",
+          "SUMMARY": "Sonisha Khadka - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9c43ea09-a0ae-4851-8657-dbe9c0c6706f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201227",
+          "SUMMARY": "Deep Subedi - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "13e70f88-3979-4a07-8ee2-6b40c9eb45a1",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201228",
+          "SUMMARY": "Soham Dhakal - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8c41487a-20c4-4ff0-a173-1e514d7dcc23",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201228",
+          "SUMMARY": "Bikash Poudel - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cb68b395-de2d-4c0d-89ac-d96c61e7b39f",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201229",
+          "SUMMARY": "Amir Tuladhar - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b1c144fc-a14c-454d-b660-15dc4c49bfb5",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201229",
+          "SUMMARY": "Chuma Mutua - Birthday",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5aded9b3-4582-4c28-be97-b987fa95b669",
+          "DTSTAMP": "20200109T074655Z",
+          "CATEGORIES": "Birthdays",
+          "DESCRIPTION": "Birthdays",
+          "DTSTART;VALUE=DATE": "20201230",
+          "SUMMARY": "Philip Tester - Birthday",
+          "TRANSP": "TRANSPARENT"
+        }
+      ]
+    }
+  ]
+}
